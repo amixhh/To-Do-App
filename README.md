@@ -1,7 +1,6 @@
 # To-Do App
 
-## Live Demo
-**[To-Do App](https://the-planning-app.netlify.app/)**  
+### Live Demo - **[To-Do App](https://the-planning-app.netlify.app/)**  
 
 ## How to Use
 1. **Open the App:** Click the live link above to access the app.
